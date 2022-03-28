@@ -33,8 +33,8 @@ class HomeBanner extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
               AppText(
-                text: "Get Up To 40%  OFF",
-                fontSize: 16,
+                text: "Straight from the farmer's market",
+                fontSize: 12,
                 fontWeight: FontWeight.w600,
                 color: AppColors.primaryColor,
               ),
